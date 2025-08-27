@@ -2,3 +2,4 @@ backup/
 .venv/
 streamlit.log
 __pycache__/
+install-debian.sh
