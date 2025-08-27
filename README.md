@@ -37,6 +37,9 @@ Esto creará automáticamente el entorno virtual si no existe, instalará las de
 - **Backups**: Creación manual de copias de seguridad desde la interfaz
 - **Búsqueda**: Campo dedicado para buscar información en toda la aplicación
 
+<img width="1068" height="1519" alt="los-peces-y-sus-cosas" src="https://github.com/user-attachments/assets/91c7391a-05cb-4fe4-96a7-80230f2ef744" />
+
+
 ## Estructura del Proyecto
 
 ```
