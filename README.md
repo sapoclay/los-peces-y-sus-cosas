@@ -124,7 +124,7 @@ La aplicación estará disponible en:
 - **URL**: http://localhost:8501
 - **Desde menú**: Busca "Los peces y sus cosas"
 
-### 🐍 Opción 2: Instalación desde Código Fuente
+### 🐍 Opción 2: Instalación desde código fuente
 
 Para desarrollo o instalación manual:
 
