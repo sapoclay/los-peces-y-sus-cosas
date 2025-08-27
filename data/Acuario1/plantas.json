@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Anubias Nana",
+    "cantidad": 2,
+    "tipo": "Trasera",
+    "posicion": "Fondo izquierdo",
+    "fecha_adquisicion": "22/08/2025",
+    "notas": "Planta resistente, crecimiento lento",
+    "fecha_registro": "22/08/2025"
+  },
+  {
+    "nombre": "Cryptocoryne Wendtii",
+    "cantidad": 5,
+    "tipo": "Delantera",
+    "posicion": "Frente centro",
+    "fecha_adquisicion": "18/08/2025",
+    "notas": "Buen crecimiento, hojas verdes",
+    "fecha_registro": "18/08/2025"
+  }
+]

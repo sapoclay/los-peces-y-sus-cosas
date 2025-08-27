@@ -1,0 +1,20 @@
+[
+  {
+    "descripcion": "Soporte",
+    "categoria": "Equipamiento",
+    "monto": 60.0,
+    "proveedor": "Amazon",
+    "fecha": "27/08/2025",
+    "notas": "",
+    "fecha_registro": "27/08/2025"
+  },
+  {
+    "descripcion": "Bolitas sustrato",
+    "categoria": "Plantas",
+    "monto": 19.0,
+    "proveedor": "Amazon",
+    "fecha": "27/08/2025",
+    "notas": "",
+    "fecha_registro": "27/08/2025"
+  }
+]

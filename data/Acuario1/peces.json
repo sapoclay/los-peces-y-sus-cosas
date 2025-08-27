@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Neón Tetra",
+    "cantidad": 6,
+    "tamano": "2-3 cm",
+    "origen": "Tienda local",
+    "fecha_adquisicion": "25/08/2025",
+    "notas": "Peces muy activos y coloridos",
+    "fecha_registro": "25/08/2025"
+  },
+  {
+    "nombre": "Guppy",
+    "cantidad": 4,
+    "tamano": "3-4 cm",
+    "origen": "Online",
+    "fecha_adquisicion": "20/08/2025",
+    "notas": "Reproducción rápida",
+    "fecha_registro": "20/08/2025"
+  }
+]

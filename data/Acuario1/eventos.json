@@ -1,0 +1,17 @@
+[
+  {
+    "tipo": "Otro",
+    "descripcion": "Limpiar la arena, añadir bolitas para plantas y volver a colocar la arena",
+    "fecha": "27/08/2025"
+  },
+  {
+    "tipo": "Mantenimiento",
+    "descripcion": "Evento UI prueba",
+    "fecha": "27/08/2025"
+  },
+  {
+    "tipo": "Mantenimiento",
+    "descripcion": "Evento UI prueba",
+    "fecha": "27/08/2025"
+  }
+]
