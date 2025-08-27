@@ -1,5 +1,8 @@
 # Los peces y sus cosas - Gestión de acuarios
 
+<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/4dab3e2e-f934-4966-b3a6-fcebe58ba1be" />
+
+
 Esta es una pequeña aplicación web desarrollada con Streamlit para la gestión y administración de acuarios. Con esta aplicación se pueden gestionar datos de peces, parámetros del agua, backups y más funcionalidades relacionadas con el mantenimiento de acuarios.
 
 ## Características principales
