@@ -87,6 +87,8 @@ sudo apt-get install -f -y
 
 #### 🎯 Después de la instalación
 
+<img width="649" height="234" alt="lanzador-los-peces-y-sus-cosas" src="https://github.com/user-attachments/assets/beaf5cab-1f53-4cc1-8fd0-aad7e611cdbb" />
+
 ```bash
 # Ejecutar la aplicación
 los-peces-y-sus-cosas
