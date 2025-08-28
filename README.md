@@ -15,6 +15,8 @@
 
 ## 🌟 Características principales
 
+<img width="1069" height="1531" alt="dashboard" src="https://github.com/user-attachments/assets/0e72d355-2af7-4bd9-bacf-b359a96de40e" />
+
 ### 🏠 Dashboard inteligente
 - **Vista general completa** con métricas en tiempo real
 - **Sistema de alertas** para mantenimientos y recordatorios
@@ -22,11 +24,15 @@
 - **Mini-gráficos de tendencias** de parámetros del agua
 - **Visualización 3D del acuario** con medidas configurables
 
+<img width="1059" height="1232" alt="gestion-peces" src="https://github.com/user-attachments/assets/2f8e746c-99e7-461a-a198-59ec7a0018c7" />
+
 ### 🐠 Gestión de especies
 - **Inventario completo de peces** con especies, cantidades y tamaños
 - **Gestión de plantas** organizadas por tipo y posición
 - **Búsqueda integrada en Wikipedia** para información sobre especies
 - **Registro detallado de adquisiciones** con proveedores
+
+<img width="1070" height="1244" alt="parametros-de-agua" src="https://github.com/user-attachments/assets/99b83d30-7355-48f4-9647-ac7b7cc7a1ec" />
 
 ### 💧 Control de parámetros
 - **Seguimiento continuo** de pH, temperatura, nitritos y nitratos
@@ -34,11 +40,15 @@
 - **Alertas automáticas** cuando faltan registros recientes
 - **Historial completo** de todas las mediciones
 
+<img width="1073" height="1407" alt="tratamientos" src="https://github.com/user-attachments/assets/60d1d4d3-83e9-4bca-9a9b-63976501d7ba" />
+
 ### 🧪 Tratamientos y medicamentos
 - **Calculadora inteligente** de dosis por volumen del acuario
 - **Tratamientos predefinidos** para casos comunes
 - **Registro de aplicaciones** con soporte para imágenes
 - **Historial completo** de tratamientos realizados
+
+<img width="1070" height="1346" alt="registro-gastos" src="https://github.com/user-attachments/assets/62bf267b-dc06-434f-85b5-8373180fb29d" />
 
 ### 💰 Control económico
 - **Registro detallado de gastos** por categorías
@@ -46,17 +56,23 @@
 - **Filtros avanzados** por fecha y tipo de gasto
 - **Resúmenes automáticos** de gastos totales
 
+<img width="1067" height="1230" alt="eventos" src="https://github.com/user-attachments/assets/423fdeab-cacf-4ca3-953c-21be30cb2783" />
+
 ### 📅 Eventos y mantenimiento
 - **Registro cronológico** de todas las actividades
 - **Sistema de recordatorios** con fechas específicas
 - **Categorización automática** de eventos
 - **Historial completo** de mantenimientos
 
+<img width="1073" height="1333" alt="busqueda" src="https://github.com/user-attachments/assets/ef0b824e-d05a-4085-a403-0c99b2600622" />
+
 ### 🔍 Búsqueda y organización
 - **Búsqueda global** en todos los registros del acuario
 - **Resultados organizados** con estadísticas por tipo
 - **Filtros inteligentes** para encontrar información rápidamente
 - **Navegación intuitiva** entre secciones
+
+<img width="1070" height="1241" alt="multiacuerios" src="https://github.com/user-attachments/assets/a73179de-b626-45c5-8bb3-423222ee9bc8" />
 
 ### 🏗️ Soporte multi-Acuario
 - **Múltiples acuarios** en una sola aplicación
